@@ -3,6 +3,8 @@ The code is messy because the topics listed below are covered back to back in th
 
 (Please note that the first half of the topics were covered in code but got deleted as I got further along in the tutorial.)
 
+I have been using ChatGPT to get more information on topics that I need more clarification on and it has been helping tremendously.
+
 C# Tutorial topics covered today 
 --------------------------------
 
