@@ -1,6 +1,8 @@
 PLEASE READ: 
 The code is messy because the topics listed below are covered back to back in the tutorial I am watching so the concepts keep layering on top of each other until the Main method gets very sloppy. Please take this code only as a show or demonstration of the topics listed out below.
 
+(Please note that the first half of the topics were covered in code but got deleted as I got further along in the tutorial.)
+
 C# Tutorial topics covered today 
 --------------------------------
 
